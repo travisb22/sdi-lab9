@@ -1,4 +1,10 @@
-//alert("JavaScript works!");
+// Travis D. Britt
+// 3/22/14
+// SDI 1403
+// Lab 9
+// Problems 1-3
+
+
 var num1 = 5;
 var num2 = 1;
 var numAsString = "10";
